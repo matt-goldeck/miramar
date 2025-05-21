@@ -6,6 +6,9 @@
 Miramar is the home base for Supabase schema migrations for the Afterburner job tracking project.
 
 
+## 🧰 Tech Stack
+* It's just [Supabase](https://supabase.com/) and a GHA
+
 ## 🛠️ Local Setup
 
 ### 1. Install Supabase CLI
