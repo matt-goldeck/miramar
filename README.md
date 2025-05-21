@@ -27,8 +27,10 @@ cd miramar
 supabase start
 ```
 
-### 4. Apply migrations
+### 4. Reset db and apply migrations
+> ⚠️ you’ll lose local data when resetting — be very careful
 ```bash
 supabase db reset
 ```
+
 
