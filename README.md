@@ -3,7 +3,7 @@
 
 [fightertown, usa](https://youtu.be/okyLAKclleo)
 
-Miramar is the home base for Supabase schema migrations for the Afterburner job tracking project.
+home base for Supabase schema migrations for the Afterburner job tracking project.
 
 
 ## 🧰 Tech Stack
